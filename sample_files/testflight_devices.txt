@@ -1,0 +1,6 @@
+deviceIdentifier	deviceName
+3dd45fea3c9e032be0d8e5825f528272643c3	Jim's iPhone 4S
+1e5b2f97712de241ef5e6f224ba7ac3b21ad4	Tim's iPhone 5 CDMA+GSM
+84ab3d3a48572087457b1f65444499975e119	Blake's iPhone 5 CDMA+GSM
+1a9654a2e7f617fd9c737757f6ab188a9be89	Sam's iPod Touch 4th Gen
+
