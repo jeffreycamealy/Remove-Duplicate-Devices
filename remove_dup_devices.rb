@@ -1,5 +1,10 @@
 #!/usr/bin/env ruby
 
+if ARGV.empty?
+	puts "== Error ==\nUsage: remove_dup_devices.rb <device_list> <duplicate_list> <new_filtered_list>"
+	exit
+end
+
 duplicatesFile = ARGV[1]
 duplicatesData = File.open(duplicatesFile, "r").read
 
